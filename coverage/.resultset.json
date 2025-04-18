@@ -1,0 +1,105 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/services/string_calculator.rb": {
+        "lines": [
+          1,
+          1,
+          7,
+          null,
+          6,
+          6,
+          null,
+          4,
+          null,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          6,
+          1,
+          1,
+          1,
+          null,
+          null,
+          6,
+          null,
+          null,
+          1,
+          20,
+          6,
+          null,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/tanmaysatsangi/Desktop/Incubyte-TDD-Assessment/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      }
+    },
+    "timestamp": 1744959565
+  }
+}
